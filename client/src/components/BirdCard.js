@@ -14,3 +14,5 @@ function BirdCard({ bird }) {
 }
 
 export default BirdCard;
+
+//BirdCard
