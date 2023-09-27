@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 
+//testing
+
 function BirdCard({ bird }) {
   const { id, name, image } = bird;
 
